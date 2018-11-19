@@ -6,7 +6,7 @@ STEP 1:Before beginning you should have the answers for
 - How would Python be useful?
 
 STEP 2: Set up your Machine
-- Download and Install Anaconda
+- Download and Install Anaconda[https://www.anaconda.com/download/]
 
 STEP 3: Get a grip on basis of Python
 - Begin with codecademy
