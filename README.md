@@ -1,10 +1,10 @@
 # Learn-Data-Science-in-Python-Guideline-from-Scratch
-- Beginner Level
-STEP 1:Before beginning you should have the answers for
+# Beginner Level
+(STEP 1:Before beginning you should have the answers for)
 
 Why should I learn Python?
 How would Python be useful?
-STEP 2: Set up your Machine
+-STEP 2: Set up your Machine
 
 Download and Install Anaconda
 STEP 3: Get a grip on basis of Python
